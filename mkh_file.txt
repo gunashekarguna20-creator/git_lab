@@ -1,2 +1,1 @@
-my first git lad
-this my 3rd lab
+this my third lab
